@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @new-akshay
-- 👀 I’m interested in Machine-Learning, Artificial-Intelligence, Developing apps
+- 👀 I’m interested in Machine-Learning, Artificial-Intelligence, Developing games
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
